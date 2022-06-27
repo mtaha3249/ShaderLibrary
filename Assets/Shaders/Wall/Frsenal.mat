@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Frsenal
+  m_Shader: {fileID: -6465566751694194690, guid: 3ca9b4d2c9b9b334698db9c276b3ca8c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_65069e83942a4ba3a7936ba276646acf:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_c13e3e5647e14768805c7b398695c73c:
+        m_Texture: {fileID: 2800000, guid: 59f0b5bd2c3be0e428da6339eb45b24f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_f3d3644b433a408db4466b8cae64eb04: 0
+    - Vector1_0a27b7eb9c24476797cadde5c09f770b: 0.1
+    - Vector1_91d1a3add4c345a6a3d19b88f1e2ad73: 0.02
+    - Vector1_9708d06949844c04ac630c6d8072ffd6: 0.12
+    - Vector1_b64843e0054e4d509a001995165c92a3: 0.42
+    - Vector1_cf59a1c3dae0493cbb42d46682d8ce3d: 0.1
+    - Vector1_dbbafc8e365c45a18a15dd901dccd076: 0.5
+    - Vector1_ed0cbe31ef244b0b807b1e75ee5ed803: 45
+    - Vector1_f0e737cc7ceb48d5a57be939dd381de2: 0.15
+    - Vector1_f0e737cc7ceb48d5a57be939dd381de2_1: 10
+    - Vector1_f60b886cfe034e49894f9cb2be0868ba: 0.51
+    - _DepthOffset: 0.02
+    - _FrsenalPower: 0.5
+    - _LineSize: 0.1
+    - _Rotation: 45
+    - _Size: 0.02
+    - _SizeRatio: 1
+    - _Speed: 0
+    - _Transparency: 0.02
+    - _UseHit: 0
+    - _UseVertexDisplacement: 0
+    m_Colors:
+    - Color_a4f375fbd70a45c88686106a0729a6f1: {r: 0.5377358, g: 0.25488055, b: 0, a: 1}
+    - Color_fc63fb9b8d5c4c1c8fc90613b14cafad: {r: 11.356863, g: 1.882353, b: 0, a: 1}
+    - Vector2_357cbea225b744ae95ea54893560c521: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_6e82cc5d12944f2a8a86fc8102876df2: {r: 0.2, g: 0.2, b: 0, a: 0}
+    - Vector2_7c0c818e8db146f6bbe6be86f06a3669: {r: 15, g: 30, b: 0, a: 0}
+    - Vector2_aae64dbbf5a24ca4babb7fcd7d8bf5df: {r: 0.19, g: -0.09, b: 0, a: 0}
+    - _FocalPoint: {r: 1, g: 0.8, b: 0, a: 0}
+    - _FresnalColor: {r: 0.7529412, g: 0.38431367, b: 0.07450979, a: 1}
+    - _HitColor: {r: 766.9961, g: 128.50197, b: 0, a: 1}
+    - _ScanlineColor: {r: 0, g: 1.277774, b: 11.35686, a: 1}
+    - _Tiling: {r: 20, g: 40, b: 0, a: 0}
+  m_BuildTextureStacks: []
